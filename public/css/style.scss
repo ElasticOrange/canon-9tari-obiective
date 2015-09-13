@@ -1,0 +1,307 @@
+body
+{
+    display: none;
+}
+
+.button-descopera
+{
+    border-radius: 3px;
+    border: 0px;
+
+    background-color: #ffffff;
+    background: -webkit-linear-gradient(90deg, #e7e7e7 0%, #ffffff 100%);
+    background: -moz-linear-gradient(90deg, #e7e7e7 0%, #ffffff 100%);
+    background: -o-linear-gradient(90deg, #e7e7e7 0%, #ffffff 100%);
+    background: -ms-linear-gradient(90deg, #e7e7e7 0%, #ffffff 100%);
+    background: linear-gradient(0deg, #e7e7e7 0%, #ffffff 100%);
+
+    width: 180px;
+    height: 29px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    position: relative;
+    margin-top: 8px;
+}
+
+@mixin margin-auto()
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@mixin hand()
+{
+    cursor: pointer;
+    cursor: hand;
+}
+
+.hand
+{
+    @include hand();
+}
+
+.picture-container
+{
+    display: none;
+
+    background-image: url('../img/img-full.png');
+    background-position: center bottom;
+
+    height: 379px;
+    width: 570px;
+
+    position: relative;
+    top: 128px;
+
+    @include margin-auto();
+}
+
+.grey-container {
+    z-index: 2;
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    width: 760px;
+
+    display: none;
+}
+
+.grey-overlay {
+    position: relative;
+    top: 128px;
+
+    width: 570px;
+    height: 379px;
+
+    display: block;
+    @include margin-auto();
+}
+
+.grey-text {
+    position: relative;
+    display: block;
+    width: 200px;
+    text-align: center;
+    @include margin-auto();
+    top: -100px;
+
+    text-transform: uppercase;
+    font-size: 28px;
+    color:white;
+    line-height: 1;
+
+    z-index: 3;
+
+    @include hand();
+
+}
+
+.arrow-left {
+    position: absolute;
+    left: 160px;
+    top: 223px;
+}
+
+.arrow-right {
+    position: absolute;
+    left: 500px;
+    top: 223px;
+}
+
+
+
+.obiectiv-wide{
+    display: none;
+}
+
+.obiectiv-portret{
+    display: none;
+}
+
+.obiectiv-tele{
+    display: none;
+}
+
+
+
+.text-container-title {
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.text-container-description {
+    font-size: 12px;
+}
+
+.girl-head {
+    //background-color: red;
+    width: 95px;
+    height: 115px;
+
+    display: none;
+
+    top: 330px;
+    position: absolute;
+    left: 120px;
+}
+
+.circle-girl {
+    display: none;
+    position: absolute;
+
+    top: 190px;
+    left: 260px;
+
+    @include hand();
+
+    border-radius: 50%;
+}
+
+.circle-girl-text {
+    @extend .indemn;
+
+    display: none;
+    position: absolute;
+    top: 270px;
+    left: 305px;
+    width: 150px;
+
+    @include hand();
+}
+
+.indemn{
+    text-transform: uppercase;
+    font-size: 28px;
+    color: white;
+    line-height: 1;
+    z-index: 3;
+    text-align: center;
+}
+
+.picture-portrait {
+    background-image: url('../img/img-portrait.png');
+    background-position: center bottom;
+
+    position: absolute;
+    top: 0px;
+    width: 760px;
+    height: 507px;
+
+    display: none;
+}
+
+.back-button-container
+{
+    z-index: 5;
+
+    display: none;
+
+    position: absolute;
+    top: 420px;
+    left: 680px;
+    text-align: center;
+
+    color: white;
+    font-weight: 700;
+
+    @include hand();
+}
+
+.boy-head {
+    //background-color: red;
+    width: 45px;
+    height: 45px;
+
+    display: none;
+
+    top: 384px;
+    position: absolute;
+    left: 530px;
+}
+
+.circle-boy {
+    display: none;
+    position: absolute;
+
+    top: 190px;
+    left: 260px;
+
+    @include hand();
+
+    border-radius: 50%;
+}
+
+.circle-boy-text {
+    @extend .indemn;
+
+    display: none;
+    position: absolute;
+    top: 285px;
+    left: 310px;
+    width: 150px;
+
+    @include hand();
+}
+
+.picture-tele {
+    background-image: url('../img/img-tele.png');
+    background-position: center bottom;
+
+    position: absolute;
+    top: 0px;
+    width: 760px;
+    height: 507px;
+
+    display: none;
+}
+
+.cerc-profil {
+    display: none;
+    position: absolute;
+    top: 294px;
+    left: 0px;
+}
+
+.cerc-trotineta {
+    display: none;
+    position: absolute;
+    top: 350px;
+    left: 494px;
+    border-radius: 50%;
+    opacity: 0;
+}
+
+.regulament {
+    position: absolute;
+    top: 680px;
+    left: 680px;
+    font-size: 10px;
+    color: black;
+}
+.preview-box {
+    display: none;
+}
+
+.whiteness {
+    width: 760px;
+    height: 507px;
+    background-color: #fff;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: none;
+    z-index: 10;
+}
+
+.ugly-circle {
+    position: absolute;
+    background-color: #E21E26;
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    top: 80px;
+    left: 205px;
+    z-index: 0;
+}

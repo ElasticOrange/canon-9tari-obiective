@@ -1,0 +1,396 @@
+body {
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
+
+
+.container-main{
+    position:relative;
+    background-color:white;
+    margin:auto;
+    width:760px;
+}
+
+.container-picture{
+    position:relative;
+    z-index:1;
+    margin:auto;
+    width: 760px;
+    height: 507px;
+}
+
+.container-picture-2{
+    background-image: url(../img/blur-look.png);
+    position:relative;
+    z-index:1;
+    margin:auto;
+    width: 760px;
+    height: 507px;
+}
+
+.picture-container-blur {
+    background-image: url('../img/center-finder.png');
+    background-position: center bottom;
+    height: 379px;
+    width: 570px;
+    position: relative;
+    top: 128px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.obiective{
+    top: 350px;
+    margin-right: 6px;
+    position:absolute;
+    z-index:2;
+    float:left;
+}
+
+.objectives{
+  top :480px;
+
+}
+/*dif = 34*/
+.obiective-submit{
+  top:480px;
+}
+
+.obiectiv_unu{
+    left:20px;
+    width:106px;
+    height:117px;
+}
+.obiectiv_doi{
+
+    left:140px;
+    width:116px;
+    height:164px;
+}
+
+.obiectiv_trei{
+    left:260px;
+    width:114px;
+    height:199px;
+}
+.obiectiv_patru{
+    left:380px;
+    width:112px;
+    height:80px;
+}
+
+.logo{
+    position:absolute;
+    top: 537px;
+    left: 528px;
+    height:128px;
+    width:188px;
+    display:inline-block;
+}
+
+
+.text-intro{
+    z-index: 2;
+    font-size:23px;
+    line-height: 25px;
+    text-align:center;
+    color:white;
+    margin:auto;
+    width: 260px;
+    margin-top: -384px;
+    position: relative;
+}
+
+.text-intro2{
+    width:260px;
+    margin-top:-368px;
+}
+
+.text-intro3{
+    width: 250px;
+    margin-top: -358px;
+    font-size: 18px;
+    line-height: 1;
+}
+
+.text-intro-final{
+  margin-top:-280px;
+}
+
+.text-intro-second{
+    text-align: center;
+    color: white;
+    margin: auto;
+    width: 260px;
+    margin-top: 10px;
+    line-height: 1.4;
+    position: relative;
+}
+
+.text-intro-second2{
+    width: 272px;
+    margin-top: 10px;
+  }
+
+.adress-email{
+  position:absolute;
+  left:260px;
+  top:300px;
+  width:215px;
+  height:27px;
+  border:none;
+  border-radius: 5px;
+  padding-left:10px;
+  padding-right:10px;
+  font-size: 18px;
+}
+
+.submit-button{
+  background-color:#fff;
+  position:absolute;
+  left:323px;
+  top:349px;
+  width:118px;
+  height:29px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 18px;
+}
+
+.radio-container{
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  width: 245px;
+  color: #fff;
+  margin-top: 15px;
+  font-size: 14px;
+  line-height: 1.4;
+  position: relative;
+}
+
+.obiectiv-margin{
+
+}
+
+.container-opacity{
+    width: 570px;
+    height: 380px;
+    margin: auto;
+    margin-top: 128px;
+}
+
+.mainpic{
+    margin:auto;
+    overflow:hidden;
+    background-image: url('../img/img-full.png');
+    background-position:center bottom;
+    height:507px;
+    width:760px;
+}
+
+.op-greylayer{
+    z-index:2;
+    margin-top: -508px;
+    width:570px;
+    height:380px;
+}
+
+.op-arrowleft{
+    z-index:3;
+    margin-top: -280px;
+    margin-left: 65px;
+    width:107px;
+    height:199px;
+}
+
+.op-text{
+    text-align:center;
+    margin:auto;
+    text-transform: uppercase;
+    font-size: 28px;
+    color:white;
+    width:200px;
+    height: 100px;
+    margin-top:-140px;
+}
+
+.op-arrowright{
+    clear:left;
+    z-index: 3;
+    width:107px;
+    height:199px;
+    margin-left: 400px;
+    margin-top:-160px;
+}
+
+.obiectivkit1{
+
+    margin-top:-53px;
+    margin-left: 40px;
+}
+
+.obiectivtext1{
+    font-size: 23px;
+    display: block;
+
+}
+.obiectivtext2{
+    width:120px;
+    clear:both;
+    display:inline;
+}
+
+.container-text{
+    position:absolute;
+    top:515px;
+    left:210px;
+    clear:both;
+    width:290px;
+
+    }
+
+.picture-container {
+  background-image: url('../img/img-full.png');
+  background-position: center bottom;
+  height: 379px;
+  width: 570px;
+  position: relative;
+  top: 128px;
+  margin-left: auto;
+  margin-right: auto; }
+
+  .picture-container2 {
+  z-index: 1;
+  height: 507px;
+  width: 760px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto; }
+
+.grey-container {
+  z-index: 2;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 760px; }
+
+.grey-overlay {
+  position: relative;
+  top: 128px;
+  width: 570px;
+  height: 379px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto; }
+
+.grey-text {
+  position: relative;
+  display: block;
+  width: 200px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  top: -80px;
+  text-transform: uppercase;
+  font-size: 28px;
+  color: white;
+  line-height: 1;
+  z-index: 3; }
+
+.arrow-left {
+  position: absolute;
+  left: 160px;
+  top: 223px; }
+
+.arrow-right {
+  position: absolute;
+  left: 500px;
+  top: 223px; }
+
+.obiectiv-kit {
+  display: none;
+  position: absolute;
+  z-index: 4;
+  left: 40px;
+  top: 445px; }
+
+.text-container {
+    width: 300px;
+
+    position: absolute;
+    left: 180px;
+    top: 520px;
+
+    z-index: 5;
+}
+
+.text-container-title {
+  font-size: 24px; }
+
+.text-container-description {
+    font-size: 15px;
+    line-height: 1;
+}
+
+.error{
+  color: #fff;
+  background-color: #AB0000;
+  box-shadow: inset 0px 0px 7px 5px #FFFFFF;
+}
+
+.preview-box{
+  position:absolute;
+  z-index:4;
+  background-image: url(../img/preview-box.png);
+  width:242px;
+  height:209px;
+  top: 20px;
+  left:500px;
+}
+
+.preview-lens1{
+  margin-top:40px;
+  margin-left:5px;
+  background-image:url(../img/Obiective/obiectiv1-preview.png);
+  background-repeat: no-repeat;
+  height:153px;
+  width:90px;
+}
+
+.preview-lens2{
+  background-image:url(../img/Obiective/obiectiv2-preview.png);
+  margin-top:60px;
+  height:130px;
+  margin-left:10px;
+}
+
+.preview-lens3{
+  background-image:url(../img/Obiective/obiectiv3-preview.png);
+  margin-top:50px;
+  height:140px;
+  margin-left:10px;
+}
+
+.preview-lens4{
+  background-image:url(../img/Obiective/obiectiv4-preview.png);
+  margin-top:50px;
+  height:150px;
+  margin-left:10px;
+}
+
+.preview-title{
+  top:0px;
+  left:20px;
+  position:absolute;
+  color:white;
+  width:220px;
+}
+
+.preview-content{
+  position:absolute;
+  top:80px;
+  left:100px;
+  color:white;
+  width:130px;
+  font-size:12px;
+}
