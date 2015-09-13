@@ -95,8 +95,8 @@ body {
     text-align:center;
     color:white;
     margin:auto;
-    width: 260px;
-    margin-top: -384px;
+    width: 300px;
+    margin-top: -344px;
     position: relative;
 }
 
@@ -366,14 +366,14 @@ body {
 
 .preview-lens3{
   background-image:url(../img/Obiective/obiectiv3-preview.png);
-  margin-top:50px;
+  margin-top:30px;
   height:140px;
   margin-left:10px;
 }
 
 .preview-lens4{
   background-image:url(../img/Obiective/obiectiv4-preview.png);
-  margin-top:50px;
+  margin-top:66px;
   height:150px;
   margin-left:10px;
 }

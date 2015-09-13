@@ -12,8 +12,8 @@ body {
   background: -o-linear-gradient(90deg, #e7e7e7 0%, #ffffff 100%);
   background: -ms-linear-gradient(90deg, #e7e7e7 0%, #ffffff 100%);
   background: linear-gradient(0deg, #e7e7e7 0%, #ffffff 100%);
-  width: 180px;
-  height: 29px;
+  width: 170px;
+  height: 41px;
   margin-left: auto;
   margin-right: auto;
   display: block;
@@ -64,7 +64,7 @@ body {
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-  top: -100px;
+  top: -114px;
   text-transform: uppercase;
   font-size: 28px;
   color: white;
@@ -190,9 +190,9 @@ body {
 .circle-boy-text {
   display: none;
   position: absolute;
-  top: 285px;
-  left: 310px;
-  width: 150px;
+  top: 280px;
+  left: 290px;
+  width: 190px;
   cursor: pointer;
   cursor: hand; }
 

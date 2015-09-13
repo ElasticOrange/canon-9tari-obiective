@@ -14,7 +14,7 @@
         <div class="circle-girl-container">
             <img class="cerc-profil" src="/img/gif_1_fata.gif" />
             <img class="circle-girl" src="/img/bulina_rosie.png" />
-            <span class="circle-girl-text">Vreţi un portret perfect?</span>
+            <span class="circle-girl-text">ΘΕΛΕΤΕ ΤΟ ΤΕΛΕΙΟ ΠΟΡΤΡΑΙΤΟ;</span>
         </div>
         <!-- /Portrait -->
 
@@ -23,7 +23,7 @@
         <div class="circle-boy-container">
             <img class="cerc-trotineta" src="/img/trotineta.png" />
             <img class="circle-boy" src="/img/bulina_rosie.png" />
-            <span class="circle-boy-text">Vrei mai aproape?</span>
+            <span class="circle-boy-text">ΘΕΛΕΤΕ ΝΑ ΕΡΘΕΤΕ ΠΙΟ ΚΟΝΤΑ;</span>
         </div>
         <!-- /Tele -->
     </div>
@@ -36,20 +36,20 @@
     <div class="picture-portrait">
         <div class="back-button-container">
             <img src="/img/back-button.png" /><br />
-            <span>Continuă</span>
+            <span>Συνέχεια</span>
         </div>
     </div>
 
     <div class="picture-tele">
         <div class="back-button-container">
             <img src="/img/back-button.png" /><br />
-            <span>Continuă</span>
+            <span>Συνέχεια</span>
         </div>
     </div>
 
     <div class="grey-container">
         <img class="grey-overlay" src="/img/op-greylayer.png" />
-        <span class="grey-text">Vrei să cuprinzi mai mult?</span>
+        <span class="grey-text">ΘΕΛΕΤΕ ΝΑ ΧΩΡΕΣΕΤΕ ΠΕΡΙΣΣΟΤΕΡΑ ΣΤΟ ΚΑΔΡΟ ΣΑΣ;</span>
         <img class="arrow-left" src="/img/op-arrowleft.png" />
         <img class="arrow-right" src="/img/op-arrowright.png" />
     </div>
@@ -64,25 +64,25 @@
     <script type="text/template" id="display_lens_1">
         <div class="preview-lens1 preview-lens2"></div>
         <div class="preview-title">Canon<br /> EF-S 18-135mm f/3.5-5.6 IS STM</div>
-        <div class="preview-content">Focalizează cu un click folosind obiectivul de 18-135mm și începe incursiunea în aplicația Canon.</div>
+        <div class="preview-content">Κάντε κλικ για να εστιάσετε με τον φακό 18-135mm και να ξεκινήσετε το ταξίδι σας μέσω της εφαρμογής της Canon.</div>
     </script>
 
     <script type="text/template" id="display_lens_2">
         <div class="preview-lens1 preview-lens1"></div>
         <div class="preview-title">Canon<br /> EF-S 10-18mm f/4.5-5.6 IS STM</div>
-        <div class="preview-content">Cu obiectivul de 10-18mm poți cuprinde un cadru mai larg al imaginilor preferate.</div>
+        <div class="preview-content">Με τον φακό 10-18mm έχετε στη διάθεσή σας ευρύτερο κάδρο για τις αγαπημένες σας εικόνες.</div>
     </script>
 
     <script type="text/template" id="display_lens_3">
         <div class="preview-lens1 preview-lens3"></div>
         <div class="preview-title">Canon<br /> EF 50mm f/1.8 II </div>
-        <div class="preview-content">Obiectivul EF 50mm este ideal pentru portrete estompând fundalul și atrangand atenția asupra celui mai important element, subiectul.</div>
+        <div class="preview-content">Ο φακός EF 50mm είναι ιδανικός για πορτραίτα, καθώς θολώνει το φόντο και εστιάζει στο σημαντικότερο στοιχείο της λήψης: το θέμα.</div>
     </script>
 
     <script type="text/template" id="display_lens_4">
         <div class="preview-lens1 preview-lens4"></div>
         <div class="preview-title">Canon<br /> EF-S 55-250mm f/4-5.6 IS STM </div>
-        <div class="preview-content">Pentru situațiile când apropierea este imposibilă, obiectivul EF-S 55-250mm aduce subiectul în prim-plan.</div>
+        <div class="preview-content">Όταν είναι αδύνατον να πλησιάσετε πιο πολύ, ο φακός EF-S 55-250mm φέρνει το θέμα σας στο προσκήνιο.</div>
     </script>
 
     <script type="text/template" id="texts-kit">
@@ -90,14 +90,12 @@
             Canon EF-S 18-135mm f/3.5-5.6 IS STM
         </span><br />
         <p class="text-container-description">
-            Perfect pentru început, obiectivul Canon EF-S 18-135mm f/3.5-5.6 IS STM este un obiectiv
-            pentru uz general, care vă permite un zoom in mai mare decât obiectivul de kit, astfel încât obiectele aflate la
-            distanță par mai aproape şi vă ajută să surprindeți detalii interesante, peisaje captivante sau
-            pur şi simplu să cuprindeţi mai mult în fotografiile voastre. Doriţi focalizare discretă şi
-            silenţioasă atunci când filmați un clip video? Nu este nici o problemă, obiectivul beneficiază și
-            de tehnologia STM.<br />
-            Încercaţi să setaţi obiectivul la plajă focală maximă (18mm), apropiaţi-vă
-            de subiect şi fotografia va oferi senzaţia implicării voastre direct în scena respectivă.
+            Ο Canon EF-S 18-135mm f/3.5-5.6 IS STM είναι ένας φακός γενικής χρήσης, ιδανικός για αρχάριους, 
+            ο οποίος προσφέρει μεγαλύτερο ζουμ από τον στάνταρ φακό του κιτ. Έτσι, τα μακρινά αντικείμενα έρχονται 
+            πιο κοντά και μπορείτε να καταγράψετε το ίδιο εύκολα ενδιαφέρουσες λεπτομέρειες ή μαγευτικά τοπία. Θέλετε 
+            διακριτική και αθόρυβη εστίαση κατά τη λήψη βίντεο; Κανένα πρόβλημα: ο φακός διαθέτει τεχνολογία STM. 
+            Δοκιμάστε να ρυθμίσετε τον φακό στην ελάχιστη εστιακή απόσταση (18mm), ελάτε πιο κοντά στο θέμα και η 
+            φωτογραφία θα αναδεικνύει την άμεση εμπλοκή σας στη σκηνή.
         </p>
     </script>
 
@@ -106,15 +104,12 @@
             Canon EF-S 10-18mm f/4.5-5.6 IS STM
         </span><br />
         <p class="text-container-description">
-            Uneori este imposibil să vă mai îndepărtați, chiar și cu un pas! Obiectivul EF-S 10-18mm f/4.5-
-            5.6 IS STM, cu zoom ultra-grandangular cu plajă focală 10-18 mm, vă ajută să cuprindeţi mai
-            mult în cadru, chiar şi atunci când sunteţi aproape de subiect, astfel încât să puteţi surprinde
-            mai mult în fiecare fotografie realizată, fără a fi nevoiţi să vă îndepărtaţi foarte mult de cadrul
-            fotografiat. În plus, fotografiile voastre vor fi întotdeauna mai clare cu ajutorul Stabilizatorului
-            de Imagine.<br />
-            Atunci când fotografiaţi un peisaj, sfatul nostru este să încercaţi să îndreptaţi
-            aparatul uşor în jos, astfel veţi obţine aşa-numitul efect de “linii directoare”, ce vor ghida
-            privirea.
+            Ορισμένες φορές, δεν μπορείτε να κάνετε άλλο ένα βήμα πίσω! Ο ευρυγώνιος φακός ζουμ EF-S 10-18mm f/4.5-5.6 IS STM, 
+            με εύρος εστιακών αποστάσεων 10-18 mm, θα σας βοηθήσει να χωρέσετε περισσότερα στοιχεία στο κάδρο, ακόμη κι όταν 
+            βρίσκεστε κοντά στο θέμα σας. Έτσι, μπορείτε να συμπεριλάβετε μεγαλύτερο μέρος της σκηνής στο πλάνο χωρίς 
+            να χρειάζεται να απομακρυνθείτε από το θέμα. Επιπλέον, οι φωτογραφίες σας θα είναι πάντα πιο καθαρές χάρη στον 
+            Σταθεροποιητή εικόνας. Όταν φωτογραφίζετε τοπία, η συμβουλή μας είναι να προσπαθείτε να στρέφετε τη μηχανή ελαφρώς 
+            προς τα κάτω, ώστε να δημιουργείτε το λεγόμενο "εφέ κατευθυντήριας γραμμής" για να οδηγείτε το βλέμμα του θεατή.
         </p>
     </script>
 
@@ -123,13 +118,13 @@
             Canon EF 50mm f/1.8 II
         </span><br />
         <p class="text-container-description">
-            Cu ajutorul obiectivului EF 50mm f/1.8 II puteţi crea emoția vizuală necesară oricărui portret
-            şi este ideal pentru estomparea fundalurilor, deoarece are o diafragmă mare de 3,5 ori mai
-            mare decât cea a obiectivului zoom standard EF-S 18-55mm f/3.5-5.6 IS STM. Estomparea
-            fundalului într-o fotografie atrage atenţia asupra celui mai important element din cadru –
-            persoana fotografiată. Încercaţi să setaţi aparatul în modul Av, pentru a putea seta diafragma
-            dorită (nu uitaţi că diafragma mare este dată de valoarea mică) apoi focalizaţi pe partea pe care
-            o doriţi să fie clară, apăsând la jumătate butonul declanşator înainte de a fotografia.
+            Με τον φακό EF 50mm f/1.8 STM μπορείτε να δημιουργήσετε το ανόθευτο οπτικό συναίσθημα που χρειάζεται για κάθε 
+            πορτραίτο. Είναι ιδανικός για λήψεις με θόλωμα του φόντου, καθώς το διάφραγμά του είναι 3,5 φορές μεγαλύτερο 
+            από αυτό του στάνταρ φακού ζουμ EF-S 18-55mm f/3.5-5.6 IS STM. Το θόλωμα του φόντου μιας φωτογραφίας τονίζει 
+            το σημαντικότερο στοιχείο στο κάδρο: το πρόσωπο που φωτογραφίζετε. Δοκιμάστε να επιλέξετε την κατάσταση "Av" 
+            στη μηχανή σας, ώστε να μπορέσετε να καθορίσετε το επιθυμητό διάφραγμα (θυμηθείτε ότι μεγάλο διάφραγμα σημαίνει 
+            μικρή τιμή ρύθμισης), και κατόπιν εστιάστε στην περιοχή που θέλετε να εμφανίζεται ευκρινής πατώντας το 
+            κουμπί του κλείστρου μέχρι το μέσον πριν από τη λήψη.
         </p>
     </script>
 
@@ -138,11 +133,10 @@
             Canon EF-S 55-250mm f/4-5.6 IS STM
         </span><br />
         <p class="text-container-description">
-            Ați surprins o acţiune interesantă, dar este mult prea departe? Obiectivul EF-S 55-250mm f/4-
-            5.6 IS STM vă ajută atunci când aveți nevoie să vă apropiați mai mult, dar nu aveți cum. Acest
-            obiectiv zoom telefoto face ca obiectele de la distanță să pară mult mai aproape, astfel încât
-            să vă puteți apropia de acțiune. Ideal pentru fotografierea scenelor
-            atunci când nu puteți fizic să vă apropiați de subiect.
+            Παρατηρήσατε κάτι ενδιαφέρον αλλά είστε πολύ μακριά; Ο φακός EF-S 55-250mm f/4-5.6 IS STM θα σας βοηθήσει 
+            όταν πρέπει να πλησιάσετε αλλά δεν μπορείτε. Αυτός ο τηλεφακός ζουμ κάνει όλα τα απομακρυσμένα αντικείμενα 
+            να δείχνουν εγγύτερα, φέρνοντάς σας πιο κοντά στη δράση. Είναι ιδανικός για σκηνές όπου δεν μπορείτε να 
+            πλησιάσετε φυσικά το θέμα.
         </p>
     </script>
 @stop
