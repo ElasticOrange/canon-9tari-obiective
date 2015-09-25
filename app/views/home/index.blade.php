@@ -5,9 +5,7 @@
         <img src="img/pagina_intro.png"/>
         <div class="ugly-circle"></div>
         <div class="text-intro">Камера це тільки половина фотографії!</div>
-        <div class="text-intro-second">Cealaltă jumătate o reprezintă obiectivele. Descoperă ce obiectiv ţi se potriveşte şi intră
-automat în competiţie pentru a câştiga un obiectiv CANON</div>
-        <button type="button" class="button-descopera">Intră în aplicaţie aici!</button>
+        <button type="button" class="button-descopera">Вхід до додатку.</button>
     </div>
 
     <input type="submit" class="submit-button" value="Submit"/>
