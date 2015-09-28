@@ -13,7 +13,7 @@ body {
   background: -ms-linear-gradient(90deg, #e7e7e7 0%, #ffffff 100%);
   background: linear-gradient(0deg, #e7e7e7 0%, #ffffff 100%);
   width: 180px;
-  height: 29px;
+  height: 40px;
   margin-left: auto;
   margin-right: auto;
   display: block;
@@ -64,7 +64,7 @@ body {
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-  top: -100px;
+  top: -138px;
   text-transform: uppercase;
   font-size: 28px;
   color: white;
@@ -120,7 +120,9 @@ body {
   display: none;
   position: absolute;
   top: 190px;
-  left: 260px;
+  left: 0;
+  right: 0;
+  margin: auto;
   cursor: pointer;
   cursor: hand;
   border-radius: 50%; }
@@ -129,9 +131,11 @@ body {
 .circle-girl-text {
   display: none;
   position: absolute;
-  top: 270px;
-  left: 305px;
-  width: 150px;
+  top: 255px;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 210px;
   cursor: pointer;
   cursor: hand; }
 
@@ -160,7 +164,7 @@ body {
   display: none;
   position: absolute;
   top: 420px;
-  left: 680px;
+  left: 640px;
   text-align: center;
   color: white;
   font-weight: 700;
@@ -181,7 +185,9 @@ body {
   display: none;
   position: absolute;
   top: 190px;
-  left: 260px;
+  left: 0;
+  right: 0;
+  margin: auto;
   cursor: pointer;
   cursor: hand;
   border-radius: 50%; }
@@ -190,9 +196,11 @@ body {
 .circle-boy-text {
   display: none;
   position: absolute;
-  top: 285px;
-  left: 310px;
-  width: 150px;
+  top: 260px;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 200px;
   cursor: pointer;
   cursor: hand; }
 
