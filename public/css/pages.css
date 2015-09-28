@@ -96,7 +96,7 @@ body {
     color:white;
     margin:auto;
     width: 260px;
-    margin-top: -384px;
+    margin-top: -315px;
     position: relative;
 }
 
@@ -373,7 +373,7 @@ body {
 
 .preview-lens4{
   background-image:url(../img/Obiective/obiectiv4-preview.png);
-  margin-top:50px;
+  margin-top:65px;
   height:150px;
   margin-left:10px;
 }
