@@ -320,7 +320,7 @@ goto_step_5 = function() {
 };
 
 goto_step_6 = function() {
-  window.location = '/inscriere';
+  window.location = '/final';
   return true;
 };
 

@@ -28,9 +28,6 @@
         <!-- /Tele -->
     </div>
 
-
-
-
     <div class="preview-box"></div>
 
     <div class="picture-portrait">
