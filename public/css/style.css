@@ -64,9 +64,9 @@ body {
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-  top: -100px;
+  top: -154px;
   text-transform: uppercase;
-  font-size: 28px;
+  font-size: 25px;
   color: white;
   line-height: 1;
   z-index: 3;
@@ -129,9 +129,9 @@ body {
 .circle-girl-text {
   display: none;
   position: absolute;
-  top: 270px;
-  left: 305px;
-  width: 150px;
+  top: 260px;
+  left: 291px;
+  width: 180px;
   cursor: pointer;
   cursor: hand; }
 
@@ -160,7 +160,7 @@ body {
   display: none;
   position: absolute;
   top: 420px;
-  left: 680px;
+  left: 653px;
   text-align: center;
   color: white;
   font-weight: 700;
@@ -191,9 +191,10 @@ body {
   display: none;
   position: absolute;
   top: 285px;
-  left: 310px;
-  width: 150px;
+  left: 280px;
+  width: 180px;
   cursor: pointer;
+  font-size: 23px;
   cursor: hand; }
 
 /* line 248, /usr/share/nginx/facebook-obiective/public/css/style.scss */
