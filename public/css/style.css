@@ -12,8 +12,8 @@ body {
   background: -o-linear-gradient(90deg, #e7e7e7 0%, #ffffff 100%);
   background: -ms-linear-gradient(90deg, #e7e7e7 0%, #ffffff 100%);
   background: linear-gradient(0deg, #e7e7e7 0%, #ffffff 100%);
-  width: 180px;
-  height: 29px;
+  width: 170px;
+  height: 41px;
   margin-left: auto;
   margin-right: auto;
   display: block;
@@ -120,7 +120,9 @@ body {
   display: none;
   position: absolute;
   top: 190px;
-  left: 260px;
+  left: 0;
+  right: 0;
+  margin: auto;
   cursor: pointer;
   cursor: hand;
   border-radius: 50%; }
@@ -181,7 +183,9 @@ body {
   display: none;
   position: absolute;
   top: 190px;
-  left: 260px;
+  left: 0;
+  right: 0;
+  margin: auto;
   cursor: pointer;
   cursor: hand;
   border-radius: 50%; }
@@ -254,7 +258,9 @@ body {
   height: 350px;
   border-radius: 50%;
   top: 80px;
-  left: 205px;
+  left: 0;
+  right: 0;
+  margin: auto;
   z-index: 0; }
 
 /*# sourceMappingURL=style.css.map */
