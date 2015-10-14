@@ -5,7 +5,7 @@
         <img src="img/pagina_intro.png"/>
         <div class="ugly-circle"></div>
         <div class="text-intro">Fotoaparat predstavlja samo pola priče iza fotografije!</div>
-        <button type="button" class="button-descopera">Uđite u aplikaciju!</button>
+        <button type="button" class="button-descopera">Pokrenite aplikaciju!</button>
     </div>
 
     <input type="submit" class="submit-button" value="Submit"/>
