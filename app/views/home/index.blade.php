@@ -4,8 +4,8 @@
     <div class="container-picture">
         <img src="img/pagina_intro.png"/>
         <div class="ugly-circle"></div>
-        <div class="text-intro">Fotoaparat je le polovica zgodbe s fotografije!</div>
-        <button type="button" class="button-descopera">Vstop v aplikacijo!</button>
+        <div class="text-intro">Fotoaparat je le polovica zgodbe o fotografiji!</div>
+        <button type="button" class="button-descopera">Poženi aplikacijo!</button>
     </div>
 
     <input type="submit" class="submit-button" value="Submit"/>

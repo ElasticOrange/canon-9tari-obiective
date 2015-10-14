@@ -23,7 +23,7 @@
         <div class="circle-boy-container">
             <img class="cerc-trotineta" src="/img/trotineta.png" />
             <img class="circle-boy" src="/img/bulina_rosie.png" />
-            <span class="circle-boy-text">ALI BI SE ŽELELI PRIBLIŽATI?</span>
+            <span class="circle-boy-text">ALI SE ŽELITE PRIBLIŽATI?</span>
         </div>
         <!-- /Tele -->
     </div>
@@ -49,7 +49,7 @@
 
     <div class="grey-container">
         <img class="grey-overlay" src="/img/op-greylayer.png" />
-        <span class="grey-text">ALI ŽELITE V KADER ZAJETI VEČ?/ALI ŽELITE ŠIRŠI KADER?</span>
+        <span class="grey-text">ALI ŽELITE V KADER ZAJETI VEČ?<br>ALI ŽELITE ŠIRŠI KADER?</span>
         <img class="arrow-left" src="/img/op-arrowleft.png" />
         <img class="arrow-right" src="/img/op-arrowright.png" />
     </div>
@@ -75,14 +75,14 @@
 
     <script type="text/template" id="display_lens_3">
         <div class="preview-lens1 preview-lens3"></div>
-        <div class="preview-title">Canon<br /> EF 50mm f/1.8 II </div>
+        <div class="preview-title">Canon<br /> EF 50mm f/1.8 STM </div>
         <div class="preview-content">Objektiv EF 50 mm je idealen za portrete. Zamegli ozadje in se osredotoča na najpomembnejši element posnetka – na glavni motiv.</div>
     </script>
 
     <script type="text/template" id="display_lens_4">
         <div class="preview-lens1 preview-lens4"></div>
         <div class="preview-title">Canon<br /> EF-S 55-250mm f/4-5.6 IS STM </div>
-        <div class="preview-content">Ko ne morete priti bližje, vam objektiv EF-S 55–250 mm prinese vaš predmet v ospredje.</div>
+        <div class="preview-content">Ko ne morete priti bližje, vam objektiv EF-S 55–250 mm postavi predmet v ospredje.</div>
     </script>
 
     <script type="text/template" id="texts-kit">
@@ -90,7 +90,7 @@
             Canon EF-S 18-135mm f/3.5-5.6 IS STM
         </span><br />
         <p class="text-container-description">
-            Canonov objektiv za splošno rabo EF-S 18–135 mm f/3,5–5,6 IS STM, ki je kot nalašč za začetnike, vam ponuja večjo povečavo kot standardni objektiv, tako da se oddaljeni predmeti zdijo bližje ter lahko zajamete zanimive podrobnosti ali dih jemajoče posnetke pokrajine. Ali bi želeli diskretno in tiho ostrenje med snemanjem videa? Nič lažjega! Objektiv se ponaša s tehnologijo STM.<br />
+            Canonov objektiv za splošno rabo EF-S 18–135mm f/3.5–5.6 IS STM, ki je kot nalašč za začetnike, vam ponuja večjo povečavo kot standardni objektiv, tako da se oddaljeni predmeti zdijo bližje ter lahko zajamete zanimive podrobnosti ali dih jemajoče posnetke pokrajine. Ali bi želeli diskretno in tiho ostrenje med snemanjem videa? Nič lažjega! Objektiv se ponaša s tehnologijo STM.<br />
             Poskusite nastaviti objektiv na najmanjšo goriščno razdaljo (18 mm) ter se približajte motivu in fotografija bo izrazila vašo neposredno vpletenost v dogajanje.
         </p>
     </script>
@@ -100,17 +100,18 @@
             Canon EF-S 10-18mm f/4.5-5.6 IS STM
         </span><br />
         <p class="text-container-description">
-            Včasih se ne morete odmakniti niti koraka več! EF-S 10–18 mm f/4,5–5,6 IS STM je širokokotni objektiv s povečavo in od 10–18-milimetrsko goriščno razdaljo, ki vam bo pomagal, da boste na vašo sliko dobili širši kader tudi takrat, ko ste blizu motiva, tako da lahko zajamete več na vsakem posnetku, ne da bi se za to morali oddaljiti od predmeta. Poleg tega bodo vaše fotografije s pomočjo stabilizatorja slike vedno ostre.<br />
-            Pri fotografiranju pokrajine vam svetujemo, da poskusite in usmerite svoj fotoaparat rahlo navzdol, tako da boste lahko dobili tako imenovani “učinek usmerjanja” za vodenje gledalčevega pogleda.
+            Včasih se ne morete odmakniti niti koraka več! EF-S 10–18mm f/4.5–5.6 IS STM je širokokotni objektiv s povečavo in od 10- do 18-milimetrsko goriščno razdaljo, ki vam bo pomagal, da boste na vašo sliko dobili širši kader tudi takrat, ko ste blizu motiva. Tako lahko zajamete več na vsakem posnetku, ne da bi se za to morali oddaljiti od predmeta. Poleg tega bodo vaše fotografije s pomočjo stabilizatorja slike vedno ostre.<br />
+            Pri fotografiranju pokrajine vam svetujemo, da poskusite in usmerite svoj fotoaparat rahlo navzdol, tako da boste lahko dobili tako imenovani "učinek usmerjanja" za vodenje gledalčevega pogleda.
         </p>
     </script>
 
     <script type="text/template" id="texts-portrait">
         <span class="text-container-title">
-            Canon EF 50mm f/1.8 II
+            Canon EF 50mm f/1.8 STM
         </span><br />
         <p class="text-container-description">
-            Z objektivom EF 50 mm f/1,8 STM lahko ustvarite posebno vizualno čustvo, potrebno za vsak portret. Ta objektiv je idealen za ustvarjanje zamegljenih ozadij, saj je njegova odprtina 3,5-krat večja od tiste na standardnem objektivu s povečavo EF-S 18–55 mm f/3,5–5,6 IS STM. Zameglitev ozadja fotografije poudarja najpomembnejši element v kadru – osebo, ki jo fotografirate. Poskusite fotoaparat nastaviti v način Av, tako da lahko izberete poljubno zaslonko (ne pozabite, velika odprtina pomeni nizko vrednost), nato izostrite območje, ki ga želite ostrega tako, da gumb sprožilca pritisnete do polovice, nato fotografirajte.
+            Z objektivom EF 50mm f/1.8 STM lahko ustvarite posebno vizualno čustvo, potrebno za vsak portret. Ta objektiv je idealen za ustvarjanje zamegljenih ozadij, saj je njegova odprtina 3,5-krat večja od tiste na standardnem objektivu s povečavo EF-S 18–55mm f/3.5–5.6 IS STM. Zameglitev ozadja fotografije poudarja najpomembnejši element v kadru – osebo, ki jo fotografirate. 
+            Poskusite fotoaparat nastaviti v način Av, tako da lahko izberete poljubno zaslonko (ne pozabite, velika odprtina pomeni nizko vrednost), nato izostrite območje, ki ga želite ostrega tako, da gumb sprožilca pritisnete do polovice, nato fotografirajte.
         </p>
     </script>
 
@@ -119,7 +120,7 @@
             Canon EF-S 55-250mm f/4-5.6 IS STM
         </span><br />
         <p class="text-container-description">
-            Opazili ste zanimivo dogajanje, vendar ste predaleč stran? Objektiv EF-S 55–250 mm f/4 5,6 IS STM vam bo pomagal, ko bi želeli priti bližje, vendar ne morete. Ta objektiv s telefoto povečavo prikaže oddaljene predmete bližje in vas tako približa dogajanju. Idealno za fotografiranje scen, ko se ne morete fizično približati predmetu.
+            Opazili ste zanimivo dogajanje, vendar ste predaleč stran? Objektiv EF-S 55–250mm f/4-5.6 IS STM vam bo pomagal, ko bi želeli priti bližje, vendar ne morete. Ta objektiv s telefoto povečavo prikaže oddaljene predmete bližje in vas tako približa dogajanju. Idealno za fotografiranje scen, ko se ne morete fizično približati predmetu.
         </p>
     </script>
 @stop
