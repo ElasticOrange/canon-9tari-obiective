@@ -56,7 +56,7 @@
 
     <img class="obiectiv-kit" id="obiectiv-kit" src="/img/Obiective/obiectiv2.png">
     <img class="obiectiv-kit" id="obiectiv-wide" src="/img/Obiective/obiectiv1.png">
-    <img class="obiectiv-kit" id="obiectiv-portrait" src="/img/Obiective/obiectiv4.png">
+    <img class="obiectiv-kit" id="obiectiv-portrait" src="/img/Obiective/canon_50mm.png">
     <img class="obiectiv-kit" id="obiectiv-tele" src="/img/Obiective/obiectiv3.png">
     <div class="text-container">
     </div>
@@ -75,7 +75,7 @@
 
     <script type="text/template" id="display_lens_3">
         <div class="preview-lens1 preview-lens3"></div>
-        <div class="preview-title">Canon<br /> EF 50mm f/1.8 II </div>
+        <div class="preview-title">Canon<br /> EF 50mm f/1.8 STM </div>
         <div class="preview-content">Объектив EF 50mm идеален для портретов, он создает размытие заднего плана, выделяя самый важный элемент - объект съемки.</div>
     </script>
 
@@ -101,7 +101,7 @@
 
     <script type="text/template" id="texts-portrait">
         <span class="text-container-title">
-            Canon EF 50mm f/1.8 II
+            Canon EF 50mm f/1.8 STM
         </span><br />
         <p class="text-container-description">С объективом  EF 50mm f/1.8 STM Вы сможете запечатлеть настроение момента, необходимое для любого портрета. Он идеален для размытого фона, так как его диафрагма в 3.5 раза больше, чем на стандартном зум-объективе EF-S 18-55mm f/3.5-5.6 IS STM. Размытие заднего плана выделяет самый важный элемент кадра - человека, которого Вы фотографируете. Установите Вашу камеру в режим AV, чтобы выбрать нужное значение диафрагмы (не забудьте, что большое значение диафрагмы подразумевает большую глубину резкости), нажатием кнопки затвора наполовину сфокусируйтесь на области, которую Вы хотите выделить и снимайте.</p>
     </script>
