@@ -56,7 +56,7 @@
 
     <img class="obiectiv-kit" id="obiectiv-kit" src="/img/Obiective/obiectiv2.png">
     <img class="obiectiv-kit" id="obiectiv-wide" src="/img/Obiective/obiectiv1.png">
-    <img class="obiectiv-kit" id="obiectiv-portrait" src="/img/Obiective/obiectiv4.png">
+    <img class="obiectiv-kit" id="obiectiv-portrait" src="/img/Obiective/canon_50mm.png">
     <img class="obiectiv-kit" id="obiectiv-tele" src="/img/Obiective/obiectiv3.png">
     <div class="text-container">
     </div>
@@ -75,7 +75,7 @@
 
     <script type="text/template" id="display_lens_3">
         <div class="preview-lens1 preview-lens3"></div>
-        <div class="preview-title">Canon<br /> EF 50mm f/1.8 II </div>
+        <div class="preview-title">Canon<br /> EF 50mm f/1.8 STM </div>
         <div class="preview-content">Obiectivul EF 50mm este ideal pentru portrete estompând fundalul și atrangand atenția asupra celui mai important element, subiectul.</div>
     </script>
 
@@ -120,10 +120,10 @@
 
     <script type="text/template" id="texts-portrait">
         <span class="text-container-title">
-            Canon EF 50mm f/1.8 II
+            Canon EF 50mm f/1.8 STM
         </span><br />
         <p class="text-container-description">
-            Cu ajutorul obiectivului EF 50mm f/1.8 II puteţi crea emoția vizuală necesară oricărui portret
+            Cu ajutorul obiectivului EF 50mm f/1.8 STM puteţi crea emoția vizuală necesară oricărui portret
             şi este ideal pentru estomparea fundalurilor, deoarece are o diafragmă mare de 3,5 ori mai
             mare decât cea a obiectivului zoom standard EF-S 18-55mm f/3.5-5.6 IS STM. Estomparea
             fundalului într-o fotografie atrage atenţia asupra celui mai important element din cadru –
