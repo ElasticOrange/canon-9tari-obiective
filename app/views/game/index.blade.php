@@ -56,7 +56,7 @@
 
     <img class="obiectiv-kit" id="obiectiv-kit" src="/img/Obiective/obiectiv2.png">
     <img class="obiectiv-kit" id="obiectiv-wide" src="/img/Obiective/obiectiv1.png">
-    <img class="obiectiv-kit" id="obiectiv-portrait" src="/img/Obiective/obiectiv4.png">
+    <img class="obiectiv-kit" id="obiectiv-portrait" src="/img/Obiective/canon_50mm.png">
     <img class="obiectiv-kit" id="obiectiv-tele" src="/img/Obiective/obiectiv3.png">
     <div class="text-container">
     </div>
