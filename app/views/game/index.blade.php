@@ -53,7 +53,7 @@
 
     <img class="obiectiv-kit" id="obiectiv-kit" src="/img/Obiective/obiectiv2.png">
     <img class="obiectiv-kit" id="obiectiv-wide" src="/img/Obiective/obiectiv1.png">
-    <img class="obiectiv-kit" id="obiectiv-portrait" src="/img/Obiective/obiectiv4.png">
+    <img class="obiectiv-kit" id="obiectiv-portrait" src="/img/Obiective/canon_50mm.png">
     <img class="obiectiv-kit" id="obiectiv-tele" src="/img/Obiective/obiectiv3.png">
     <div class="text-container">
     </div>
@@ -72,7 +72,7 @@
 
     <script type="text/template" id="display_lens_3">
         <div class="preview-lens1 preview-lens3"></div>
-        <div class="preview-title">Canon<br /> EF 50mm f/1.8 II </div>
+        <div class="preview-title">Canon<br /> EF 50mm f/1.8 STM </div>
         <div class="preview-content">Об’єктив EF 50mm ідеальний для портретів завдяки тому, що розмиває тло та фокусується на найважливішому елементі кадру- на об’єкті.</div>
     </script>
 
@@ -104,7 +104,7 @@
 
     <script type="text/template" id="texts-portrait">
         <span class="text-container-title">
-            Canon EF 50mm f/1.8 II
+            Canon EF 50mm f/1.8 STM
         </span><br />
         <p class="text-container-description">
             З об’єктивом EF 50mm f/1.8 STM ви можете створити весь спектр візуальних емоцій, які необхідні для портрету. Він ідеальний для розмиття тла тому, що  його діафрагма в 3,5 рази ширша за стандартні об’єктиви EF-S 18-55mm f/3.5-5.6 IS STM. Розмиття заднього фону на фото підкреслює найголовніший елемент кадру-людину, яку ви фотографуєте. Спробуйте встановити  вашу камеру в режим Av, в якому ви зможете обирати бажане значення діафрагми (не забувайте, що більша цифра означає менше значення), потім сфокусуйтеся на зоні, яку хочете виділити за допомогою натискання кнопки камери до половини перед тим, як зробити кадр.
