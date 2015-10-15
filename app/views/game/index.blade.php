@@ -56,7 +56,7 @@
 
     <img class="obiectiv-kit" id="obiectiv-kit" src="/img/Obiective/obiectiv2.png">
     <img class="obiectiv-kit" id="obiectiv-wide" src="/img/Obiective/obiectiv1.png">
-    <img class="obiectiv-kit" id="obiectiv-portrait" src="/img/Obiective/obiectiv4.png">
+    <img class="obiectiv-kit" id="obiectiv-portrait" src="/img/Obiective/canon_50mm.png">
     <img class="obiectiv-kit" id="obiectiv-tele" src="/img/Obiective/obiectiv3.png">
     <div class="text-container">
     </div>
@@ -75,7 +75,7 @@
 
     <script type="text/template" id="display_lens_3">
         <div class="preview-lens1 preview-lens3"></div>
-        <div class="preview-title">Canon<br /> EF 50mm f/1.8 II </div>
+        <div class="preview-title">Canon<br /> EF 50mm f/1.8 STM </div>
         <div class="preview-content">Objektiv EF 50 mm idealan je za portrete. Može zamutiti pozadinu i izoštriti najvažniji element snimke – glavni motiv.</div>
     </script>
 
