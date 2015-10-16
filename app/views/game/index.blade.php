@@ -76,7 +76,7 @@
     <script type="text/template" id="display_lens_3">
         <div class="preview-lens1 preview-lens3"></div>
         <div class="preview-title">Canon<br /> EF 50mm f/1.8 STM </div>
-        <div class="preview-content">Обективът EF 50mm е идеален за портретни снимки, разфокусиране на фона и акцентиране върху най-важния елемент от снимката – лицето.</div>
+        <div class="preview-content-small">Обективът EF 50mm е идеален за портретни снимки, разфокусиране на фона и акцентиране върху най-важния елемент от снимката – лицето.</div>
     </script>
 
     <script type="text/template" id="display_lens_4">
