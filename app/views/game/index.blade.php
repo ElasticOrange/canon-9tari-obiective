@@ -76,7 +76,7 @@
     <script type="text/template" id="display_lens_3">
         <div class="preview-lens1 preview-lens3"></div>
         <div class="preview-title">Canon<br /> EF 50mm f/1.8 STM </div>
-        <div class="preview-content">Объектив EF 50mm идеален для портретов, он создает размытие заднего плана, выделяя самый важный элемент - объект съемки.</div>
+        <div class="preview-content-small">Объектив EF 50mm идеален для портретов, он создает размытие заднего плана, выделяя самый важный элемент - объект съемки.</div>
     </script>
 
     <script type="text/template" id="display_lens_4">

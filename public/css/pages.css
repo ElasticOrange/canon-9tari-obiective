@@ -394,3 +394,12 @@ body {
   width:130px;
   font-size:12px;
 }
+
+.preview-content-small{
+  position:absolute;
+  top:50px;
+  left:100px;
+  color:white;
+  width:130px;
+  font-size:12px;
+}
