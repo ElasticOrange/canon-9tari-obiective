@@ -95,8 +95,8 @@ body {
     text-align:center;
     color:white;
     margin:auto;
-    width: 260px;
-    margin-top: -384px;
+    width: 300px;
+    margin-top: -320px;
     position: relative;
 }
 
@@ -388,7 +388,7 @@ body {
 
 .preview-content{
   position:absolute;
-  top:80px;
+  top:55px;
   left:100px;
   color:white;
   width:130px;
