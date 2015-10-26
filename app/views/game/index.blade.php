@@ -90,12 +90,11 @@
             Canon EF-S 18-135mm f/3.5-5.6 IS STM
         </span><br />
         <p class="text-container-description">
-            Objektiv za opštu namenu kompanije Canon EF-S 18-135mm f/3.5-5.6 IS STM, savršen za početnike, 
-            uža veći zum nego standardni kit objektiv, tako da se udaljeni predmeti čine bližim, pa možete 
-            snimati zanimljive detalje ili pejzaže koji oduzimaju dah. Želite diskretno i tiho fokusiranje 
-            prilikom snimanja videa? Nema problema - ovaj objektiv opremljen je STM tehnologijom. 
-            Pokušajte da podesite svoj objektiv na minimalnu žižnu daljinu (18 mm), približite se predmetu 
-                snimanja i na fotografiji će biti vidljivo da ste direktno uključeni u zbivanja.
+            Objektiv za opštu namenu kompanije Canon EF-S 18-135mm f/3.5-5.6 IS STM, savršen za početnike, pruža veći zum nego standardni
+            kit objektiv, tako da se udaljeni predmeti čine bližim, pa možete snimati zanimljive detalje ili pejzaže koji oduzimaju dah.
+            Želite diskretno i tiho fokusiranje prilikom snimanja videa? Nema problema - ovaj objektiv opremljen je STM tehnologijom.
+            Pokušajte da podesite svoj objektiv na minimalnu žižnu daljinu (18 mm), približite se predmetu snimanja i na fotografiji će
+            biti vidljivo da ste direktno uključeni u zbivanja.
         </p>
     </script>
 
@@ -105,11 +104,11 @@
         </span><br />
         <p class="text-container-description">
             Ponekad se više ne možete odmaknuti ni korak! Objektiv EF-S 10-18mm f/4.5- 5.6 IS STM, koji ima
-            širokougaoni raspon zuma i raspon izoštravanja 10-18 mm, pomoći će vam da kadrom obuhvatite više 
-            sadržaja, čak i kada ste blizu predmeta snimanja, da biste u svaki snimak uključili što više sadržaja, 
-            bez odmicanja od predmeta snimanja. Pored toga, vaše fotografije će uvek biti oštrije zahvaljujući 
+            širokougaoni raspon zuma i raspon izoštravanja 10-18 mm, pomoći će vam da kadrom obuhvatite više
+            sadržaja, čak i kada ste blizu predmeta snimanja, da biste u svaki snimak uključili što više sadržaja,
+            bez odmicanja od predmeta snimanja. Pored toga, vaše fotografije će uvek biti oštrije zahvaljujući
             stabilizatoru slike.
-            Prilikom snimanja pejzaža, savetujemo da pokušate da usmerite fotoaparat malo nadole, da biste dobili 
+            Prilikom snimanja pejzaža, savetujemo da pokušate da usmerite fotoaparat malo nadole, da biste dobili
             efekat "usmeravanja pogleda posmatrača".
         </p>
     </script>
@@ -120,12 +119,11 @@
         </span><br />
         <p class="text-container-description">
             Pomoću objektiva EF 50mm f/1.8 STM možete ostvariti vizuelni utisak kakav je potreban svakom portretu.
-            Idealan je za zamućivanje pozadine, pošto ima 3,5 puta puta veći otvor blendenego standardni zum objektiv 
-            EF-S 18-55mm f/3.5-5.6 IS STM. Zamućivanjem pozadine na fotografiji, ističe se najvažniji element u 
-            kadru – osoba koju fotografišete. 
-            Pokušajte da podesite fotoaparat u režim Av, da biste mogli da podesiti željeni otvor blende 
-            (ne zaboravite – što je vrednost niža, otvor je veći), a zatim pre samog okidanja izoštrite željeno područje 
-            pritiskom okidača do pola.
+            Idealan je za zamućivanje pozadine, pošto ima 3,5 puta puta veći otvor blende nego standardni zum objektiv
+            <br />EF-S 18-55mm f/3.5-5.6 IS STM. Zamućivanjem pozadine na fotografiji, ističe se najvažniji element u kadru –
+            osoba koju fotografišete. Pokušajte da podesite fotoaparat u režim Av, da biste mogli da podesiti željeni
+            otvor blende (ne zaboravite – što je vrednost niža, otvor je veći), a zatim pre samog okidanja izoštrite
+            željeno područje pritiskom okidača do pola.
         </p>
     </script>
 
@@ -134,9 +132,9 @@
             Canon EF-S 55-250mm f/4-5.6 IS STM
         </span><br />
         <p class="text-container-description">
-            Primetili ste neko zanimljivo događanje, ali ste predaleko? Objektiv EF-S 55-250mm f/4- 5.6 IS STM 
-            će vam pomoći kada želite da se približite radnji, a ne možete. Ovaj telefoto zum objektiv približava 
-            vam sve udaljene objekte, da biste se približili akciji. Idealan je za snimanje scena u kojima ne možete 
+            Primetili ste neko zanimljivo događanje, ali ste predaleko? Objektiv EF-S 55-250mm f/4- 5.6 IS STM
+            će vam pomoći kada želite da se približite radnji, a ne možete. Ovaj telefoto zum objektiv približava
+            vam sve udaljene objekte, da biste se približili akciji. Idealan je za snimanje scena u kojima ne možete
             fizički da se približite predmetu snimanja.
         </p>
     </script>
